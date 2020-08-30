@@ -33,7 +33,7 @@ const Footer = () => {
                     <Typography variant="body1" color="textSecondary">
                         Created by: {' '}
                         <Link className={classes.linkColor} href="https://github.com/Abidjaweed" target="_blank" rel="noopener noreferrer">
-                            Abid Jawed {'  '} <GitHubIcon />
+                            Abid Jaweed {'  '} <GitHubIcon />
                         </Link> 
                     </Typography>
 

@@ -18,13 +18,12 @@ body {
 
 .image {
   width: 370px;
-  margin-top: 30px;
+  margin-top: 50px;
 }
 
 @media only screen and (max-width: 770px) {
   .container {
     margin: 0 10%;
-    margin-top: 10px;
   }
 
   .image {
